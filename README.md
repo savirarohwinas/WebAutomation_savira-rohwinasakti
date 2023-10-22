@@ -36,9 +36,7 @@ Follow these steps to set up the project and start automating web tests:
       ```
 3. ***Import Project***: Import the project into your preferred IDE.
 
-4. ***Configurations***: Configure the project to use your web driver and browser settings in the configuration file.
-
-5. ***Run Tests***: Use Cucumber to run your test scenarios. You can run individual scenarios or feature files based on your testing needs.
+4. ***Run Tests***: Use Cucumber to run your test scenarios. You can run individual scenarios or feature files based on your testing needs.
 ## Screenshoot 
 ![image](https://github.com/savirarohwinas/WebAutomation_savira-rohwinasakti/assets/72561896/e9ec68a8-f1a0-4f46-9c68-1a5968c62086)
 
