@@ -28,11 +28,11 @@ Follow these steps to set up the project and start automating web tests:
     - Java Development Kit (JDK)
     - Cucumber
     - Selenium WebDriver
-    - Your preferred IDE (Eclipse, IntelliJ, etc.)
-    - WebDriver for your chosen browser (Chrome, Firefox, etc.)
+    - Your preferred IDE
+    - WebDriver for your chosen browser 
 2. ***Clone the Repository***: Use Git to clone this repository to your local machine.
       ```
-      git clone https://github.com/yourusername/web-automation-testing.git
+      git clone https://github.com/savirarohwinas/WebAutomation_savira-rohwinasakti.git
       ```
 3. ***Import Project***: Import the project into your preferred IDE.
 
